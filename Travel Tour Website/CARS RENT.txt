@@ -1,0 +1,49 @@
+     Rajput Rental Service
+
+
+Cars                    Colour                Price
+
+
+Mustang gt             Yellow                ?35000
+
+Range Rover Discovery  Silver Shaded         ?27000
+
+BMW 320D                White                ?22000
+
+Audi A6                 White                ?19000
+
+Audi Q3                 Chocolate            ?18000
+
+Ford Endeavour        Black + Silver         ?16000
+
+Toyota Fortuner         White                ?16000
+
+Tata Harrier            Black                ?9500 
+
+Mg Hector               White                ?8000
+
+Mg Gloster              Red                  ?8000
+
+Innova Crysta           Blue                 ?7000
+
+Thar                Black + Red +White       ?6500
+
+Xuv700               Blue Shaded + White     ?6500
+
+Scorpio N               Green                ?6500
+
+Scorpio S11             Black                ?6000
+
+Ennova                  White                ?5000
+
+Maruti Suzuki Ciaz      Silver               ?4000 
+
+Verna                   Black                ?4000
+
+Tata Altroz             Black                ?3500
+
+Maruti Suzuki Baleno    White                ?3500
+
+Maruti Suzuki Ertiga    White                ?3500
+
+Maruti Suzuki Fronx     White                ?3500
